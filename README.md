@@ -1,2 +1,2 @@
-# Superstore_Sales_Analysis_PowerBI
-Complete Power BI project using restail sales data 
+# Superstore_Sales_PowerBI_Dashboard
+Complete Power BI project using retail sales data 
